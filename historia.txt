@@ -1,5 +1,6 @@
 Esta es una nueva historia 
 Probando GIT
 Tengo 18 años y vivo en Lima - Perú
+Estudio Ingeniería de Software
 
-By: Esteban 
+Soy Esteban
